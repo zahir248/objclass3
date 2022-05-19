@@ -1,0 +1,8 @@
+﻿  Mainprog.cpp
+C:\Users\Muhd Zahir\source\repos\labtest\Mainprog.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Muhd Zahir\source\repos\labtest\Mainprog.cpp(14,12): warning C4101: 'perimeter': unreferenced local variable
+C:\Users\Muhd Zahir\source\repos\labtest\Mainprog.cpp(13,12): warning C4101: 'area': unreferenced local variable
+  Parallelogram.cpp
+  Rectangle.cpp
+  Generating Code...
+  labtest.vcxproj -> C:\Users\Muhd Zahir\source\repos\labtest\Debug\labtest.exe
